@@ -172,7 +172,7 @@ function App() {
 
       <div className="mockup-code  mx-auto mt-10 flex flex-col flex-s items-start">
         <pre data-prefix="$" className="">
-          <code>Crypto</code>
+          <code>Crypto 🔑 </code>
         </pre>
         <pre data-prefix=">" className="text-warning ">
           <code>Generando...</code>
