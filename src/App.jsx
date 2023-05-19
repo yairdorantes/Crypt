@@ -64,6 +64,7 @@ function App() {
   };
   const copyCrypting = () => {
     navigator.clipboard.writeText(encryptedText);
+    toast.success("Texto encriptado 🔑 se ha copiado");
   };
 
   return (
